@@ -1,0 +1,8 @@
+Data held in db.json. Start server with:  npm run dbserver
+See: package.json.  "dbserver": "json-server --watch db.json --port 5000"
+
+Dev server is started with:  npm start
+Runs on localhost:3000
+
+Build server can be started with: serve -s build -l 6000
+
